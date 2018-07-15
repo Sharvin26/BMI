@@ -1,6 +1,8 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+Flutter Project(Dart).
+BMI calculator works on the Metric System.
+![alt text] (http://res.cloudinary.com/dkcxpbczh/image/upload/v1531660927/Screenshot_1531660880_r8zcst.png)
 
 ## Getting Started
 
